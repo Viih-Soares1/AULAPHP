@@ -15,7 +15,7 @@
                 setcookie("dia-da-semana" , "SEGUNDA", time() + 3600);
                 session_start();
                 $_SESSION["TESTE"] = "SUCESSO";
-               teste
+               
                 echo "<h2> Superglobal GET</h2>";
                 var_dump($_GET);
                
