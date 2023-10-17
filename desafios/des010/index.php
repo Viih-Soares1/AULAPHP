@@ -23,7 +23,6 @@
             $porcentagem = ($valor * $reajuste / 100 ) + $valor;
             echo "<p> O valor com o reajuste de $reajuste% é $porcentagem";
             ?>
-
         </section>  
     </main>
 </body>
