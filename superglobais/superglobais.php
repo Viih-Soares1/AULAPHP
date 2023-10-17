@@ -11,6 +11,7 @@
 <body>
     <main>
         <h2> Testando GITHUB </h2>
+        <h3> testando o GIT PULL </h3>
         <pre>
             <?php
                 setcookie("dia-da-semana" , "SEGUNDA", time() + 3600);
